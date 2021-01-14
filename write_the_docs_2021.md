@@ -1,5 +1,7 @@
 # Write The Docs
 
+###### tags: `write the docs`
+
 ## [Portland 2021](https://www.writethedocs.org/conf/portland/2021/)
 Apr 25-27, 2021
 
