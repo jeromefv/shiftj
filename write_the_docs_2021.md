@@ -3,7 +3,8 @@
 ###### tags: `write the docs`
 
 ## [Portland 2021](https://www.writethedocs.org/conf/portland/2021/)
-Apr 25-27, 2021
+- Apr 25-27, 2021
+- [Submission Link](https://pretalx.com/write-the-docs-portland-2021/talk/review/BMD3GHJTLMVS3TVEQHV78MXMGXGLC8XQ)
 
 ### Updates
 - New CFP deadline of February 1st
